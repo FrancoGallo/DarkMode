@@ -1,5 +1,5 @@
 <h1 align="center">Hello my friend 👋</h1>
-- 👨‍💻 Es un pequeño proyecto con un botón que activa el famoso "dark mode". Es un pequeño proyecto con un botón que activa el famoso "dark mode".
+- 👨‍💻 Es un pequeño proyecto con un botón que activa el famoso "dark mode".
 
 - 📫 How to reach me **gallofrancogabriel@gmail.com**
 
