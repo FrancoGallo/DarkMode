@@ -1,0 +1,19 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+/* Estilos para centrar el boton */
+body {
+    height: 489px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.9s;
+}
+
+/* Los estilos que se implementan a travez del boton "Dark Mode" */
+.body-style-dark {
+    background-color: #000000;
+}
+
+.body-style-light {
+    background-color: #ffffff;
+}
