@@ -1,7 +1,6 @@
 <h1 align="center">Hello my friend 👋</h1>
 👨‍💻 Es un pequeño proyecto con un botón que activa el famoso "dark mode".
-<br>
-📫 How to reach me **gallofrancogabriel@gmail.com**
+📫 How to reach me gallofrancogabriel@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
