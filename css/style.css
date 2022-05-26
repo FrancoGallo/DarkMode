@@ -2,7 +2,7 @@
 
 /* Estilos para centrar el boton */
 body {
-    height: 489px;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
