@@ -14,14 +14,14 @@ const btn = document.querySelector ("button");
 
 // Las funciones (reemplazan las class y cambian el texto del boton)
 function darkMode() {
-    btn.classList.replace ("btn-dark", "btn-light"); // La propiedad ".replace" te sirve para reemplazar una class por otra
+    btn.classList.replace ("btn-outline-dark", "btn-outline-light"); // La propiedad ".replace" te sirve para reemplazar una class por otra
     btn.innerHTML = "Light Mode";
     body.classList.replace ("body-style-light", "body-style-dark");
     localStorage.setItem ("darkModeLocalStorage", "true");
 }
 
 function lightMode() {
-    btn.classList.replace ("btn-light", "btn-dark");
+    btn.classList.replace ("btn-outline-light", "btn-outline-dark");
     btn.innerHTML = "Dark Mode";
     body.classList.replace ("body-style-dark", "body-style-light");
     localStorage.setItem ("darkModeLocalStorage", "false");
@@ -34,7 +34,7 @@ if (localStorage.getItem ("darkModeLocalStorage") == "true") {
 
 // El evento sobre el boton
 btn.addEventListener ("click", () => {
-    if (btn.classList.contains ("btn-dark")) { // La propiedad ".contains" sirve para identificar una class dentro de un elemento
+    if (btn.classList.contains ("btn-outline-dark")) { // La propiedad ".contains" sirve para identificar una class dentro de un elemento
         darkMode();
     }
     else {
