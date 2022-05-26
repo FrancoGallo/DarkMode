@@ -1,19 +1,25 @@
-* {margin: 0; padding: 0; box-sizing: border-box;}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 /* Estilos para centrar el boton */
 body {
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: 0.9s;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.9s;
 }
 
 /* Los estilos que se implementan a travez del boton "Dark Mode" */
 .body-style-dark {
-    background-color: #000000;
+  background-color: #000000;
 }
 
 .body-style-light {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
+
+/*# sourceMappingURL=style.css.map */

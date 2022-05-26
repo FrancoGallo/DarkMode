@@ -1,0 +1,19 @@
+{
+  "name": "dark-mode",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hello my friend 👋</h1>\r - 👨‍💻 Es un pequeño proyecto con un botón que activa el famoso \"dark mode\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoGallo/DarkMode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoGallo/DarkMode/issues"
+  },
+  "homepage": "https://github.com/FrancoGallo/DarkMode#readme"
+}
